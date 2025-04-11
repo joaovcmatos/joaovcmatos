@@ -1,5 +1,13 @@
 ### Hi there 🤙🏼, I am João! ♨️
- Product Designer and  Developer
+
+### 🎨 Product Designer | Senior Designer  
+With over 8 years of experience in graphic design, branding, and digital marketing, I work as a Product Designer crafting strategic visual solutions, intuitive interfaces, and user-centered experiences.
+
+### 💻 Front-End Developer | Full Stack Student  
+A passionate and curious self-taught programmer. I have experience with **HTML, CSS, and JavaScript**, and I'm currently diving deep into the full stack development ecosystem  blending design with functional code.
+
+🚀 Passionate about technology, Crypto, Web3, and innovation.
+
 ### 💻 My daily stack: 
 <div style="display: inline_block"><br/>
 <img align="center" alt="PS"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
